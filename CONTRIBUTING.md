@@ -1,5 +1,7 @@
 # Contributing
 
+:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+
 This file explains the expected form in which contributors should offer their ideas and suggestions. Any violation of the following guidelines may result in the rejection of the contribution, including but not limited to github issues and pull requests.
 
 ## Guidelines
